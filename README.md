@@ -53,4 +53,7 @@ npm install
 
 # Run the app
 npm start
+```
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=abhishekvankar&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/abhishekvankar)
 
