@@ -3,9 +3,6 @@
 A lightweight, distraction-free YouTube desktop application built using Electron.  
 No ads. No clutter. Just content.
 
-![Main Screen](images/snapshot1.png)
-![Picture-in-Picture Mode](images/snapshot2.png)
-
 ---
 
 ## ⚡ Features
@@ -37,7 +34,7 @@ No ads. No clutter. Just content.
 
 | Home Screen | Picture-in-Picture |
 |-------------|--------------------|
-| ![Home](images/home.png) | ![PiP](images/pip.png) |
+| ![Home](homepage.png) | ![PiP](PIP.png) |
 
 ---
 
@@ -55,5 +52,8 @@ npm install
 npm start
 ```
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=abhishekvankar&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/abhishekvankar)
+If you like my work, please consider supporting me by
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abhishekvankar)
+
 
